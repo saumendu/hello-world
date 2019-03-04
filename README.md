@@ -1,2 +1,2 @@
 # hello-world
-My first Git Hub Project to explore Github
+My first GitHub Project to explore GitHub. I wish to become a well to do coder.
